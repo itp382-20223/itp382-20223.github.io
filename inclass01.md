@@ -25,5 +25,5 @@ I cannot guarantee I can help you with any git client other than Github Desktop 
 
 ## Accept the Assignment
 
-[https://classroom.github.com/a/FNulxBob](InClass 01)
+[https://classroom.github.com/a/FNulxBob](https://classroom.github.com/a/FNulxBob)
 
