@@ -12,7 +12,7 @@ Let's get you set up with Git and Unity.
 
 If you already have a github account skip to the next step.
 
-Go to [https://github.com/](https://github.com/) and [Sign Up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home].
+Go to [https://github.com/](https://github.com/) and [Sign Up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home).
 
 ## Choose a Git Client
 
