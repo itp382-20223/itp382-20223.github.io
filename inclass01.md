@@ -1,6 +1,6 @@
 ---
 title: "InClass 01: Git"
-has_children: false
+has_children: true
 nav_order: 1
 ---
 
@@ -59,7 +59,7 @@ Using your web browser, go to your repo on github.
 Click on your README.txt file.
 You should see your name and email address.
 
-{: warn}
+{: .warn}
 This is how we'll be grading this assignment.
 If your name does not appear, you will not get full credit.
 
