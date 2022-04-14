@@ -35,6 +35,33 @@ I personally use [TortoiseGit](https://tortoisegit.org/download/). I can also he
 This downloads a complete copy of the github repo down from the server to your local hard drive.
 Choose a location on your hard drive. You'll need to know where this is.
 
+## Edit Your ReadMe file
+
+At the root of the InClass01 project, you should find a README.md file.
+Open this in any text editor, and update your name and email address.
+Save the file.
+
+## Commit and Push
+
+Use your chosen git client to commit your changes.
+Push your changes up to the server.
+
+{: .note }
+If you do not push your work, we cannot see it.
+If we cannot see it, we cannot grade it, and we will be limited in how much advice we can offer.
+Pushing your work saves everything as a backup.
+Commit and Push Often.
+
+## Check It
+
+{: .test}
+Using your web browser, go to your repo on github.
+Click on your README.txt file.
+You should see your name and email address.
+
+{: warn}
+This is how we'll be grading this assignment.
+If your name does not appear, you will not get full credit.
 
 
 
