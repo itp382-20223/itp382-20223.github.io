@@ -32,6 +32,11 @@ Let's find the cards.
 There is no "Sprites" folder. Instead, look in the "Resources" folder. In there, you will find the "Resources/PlayingCards" subfolder.
 ![Cards](images/lab01/assets02_resources.jpg "Cards")
 
+{: .note}
+Since there are over 50 images in this folder, it's much easier to load these images using code.
+If we want to load an asset, we should put it into the Resources folder.
+We can **only** load files from a "Resources" or "StreamingAssets" folder.
+
 ## Do The Thing
 [![Zhu Li! Do the Thing!](https://www.deviantart.com/katherinaxc/art/Zhu-Li-do-the-thing-506917645)](http://www.nick.com.au/legend-of-korra/videos/digital-short-legend-of-korra-compilation-zhu-li/)
 
