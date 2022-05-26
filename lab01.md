@@ -20,7 +20,7 @@ Open your starting project in Unity.
 It should look like this.
 
 ## Do The Thing
-(Zhu Li! Do the Thing!)[http://www.nick.com.au/legend-of-korra/videos/digital-short-legend-of-korra-compilation-zhu-li/]
+[![Zhu Li! Do the Thing!](https://www.deviantart.com/katherinaxc/art/Zhu-Li-do-the-thing-506917645)](http://www.nick.com.au/legend-of-korra/videos/digital-short-legend-of-korra-compilation-zhu-li/)
 
 ## Commit and Push
 
