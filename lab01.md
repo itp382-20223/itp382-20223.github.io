@@ -17,7 +17,20 @@ We will start off with an existing project.
 
 {: .test}
 Open your starting project in Unity.
-It should look like this.
+There is one scene in the project. Assets/Scenes/Game.unity
+Open the Game scene.
+It should look like this...
+
+{: .note }
+You Are here
+
+## Tour the Project
+In the Project tab, let's look at the Asset hierarchy. This is a fairly typical style of organization where we have folders for each type of asset.
+![Assets](images/lab01/assets01.jpg "Assets")
+
+Let's find the cards.
+There is no "Sprites" folder. Instead, look in the "Resources" folder. In there, you will find the "Resources/PlayingCards" subfolder.
+![Cards](images/lab01/assets02_resources.jpg "Cards")
 
 ## Do The Thing
 [![Zhu Li! Do the Thing!](https://www.deviantart.com/katherinaxc/art/Zhu-Li-do-the-thing-506917645)](http://www.nick.com.au/legend-of-korra/videos/digital-short-legend-of-korra-compilation-zhu-li/)
