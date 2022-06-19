@@ -26,11 +26,11 @@ I personally use [TortoiseGit](https://tortoisegit.org/download/). I can also he
 
 ## Accept the Assignment
 
-[https://classroom.github.com/a/FNulxBob](https://classroom.github.com/a/FNulxBob) **TODO**
+[https://classroom.github.com/a/SN5_twyi](https://classroom.github.com/a/SN5_twyi)
 
 ## Clone the Repo
 
-![Clone The Repo](images/gitclone.png "Clone The Repo")
+![Clone The Repo](images/gitclone.jpg "Clone The Repo")
 
 This downloads a complete copy of the github repo down from the server to your local hard drive.
 Choose a location on your hard drive. You'll need to know where this is.
