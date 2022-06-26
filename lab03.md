@@ -5,6 +5,8 @@ nav_order: 4
 ---
 
 # Lab 03: MissileCommand
+![Missile Command](images/lab03/missilecommand.jpg "Missile Command")\
+![Missile Command Game](images/lab03/missile_command_game.png "Missile Command Game")\
 Missile Command was an old Arcade game by Atari from 1980\
 [![Missile Command](images/lab03/arcade.jpg)](https://youtu.be/6VNT_avd5j4)\
 It was based on a trackball controller, but the game mechanic lends itself easily to touch controls.\
