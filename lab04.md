@@ -13,8 +13,8 @@ It's no longer on the main stores, but you can still download them here.\
 {: .warn}
 I haven't tried these links, so use with caution.
 
-[Missile Command: Recharged on Google Play](https://flappy-bird.en.uptodown.com/android)\
-[Missile Command: Recharged on App Store](https://flappy-bird.en.softonic.com/iphone)
+[Flappy Bird APK for Android](https://flappy-bird.en.uptodown.com/android)\
+[Flappy Bird for iOS](https://flappy-bird.en.softonic.com/iphone)
 
 
 
