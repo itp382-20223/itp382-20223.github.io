@@ -1,8 +1,8 @@
 $callouts: (
     note: ($blue-300, rgba($blue-000, .2), 'NOTE'),
-    warn: ($yellow-300, rgba($yellow-000, .2), 'WARNING'),
-    danger: ($red-300, rgba($red-000, .2), 'DANGER'),
-    test: ($green-300, rgba($green-000, .2), 'TEST IT!')
+    test: ($yellow-300, rgba($yellow-000, .2), 'TEST IT!'),
+    warn: ($red-300, rgba($red-000, .2), 'WARNING'),
+    todo: ($green-300, rgba($green-000, .2), 'TODO')
 );
 
 @each $class, $props in $callouts {
