@@ -16,7 +16,7 @@ Here's what it might be like on mobile\
 [Missile Command: Recharged on App Store](https://apps.apple.com/us/app/missile-command-recharged/id1494023721)
 
 Our version of the lab should end up looking like this:
-<iframe style="display:block; margin: 0 auto;" src="https://drive.google.com/file/d/1q3i_C4UCxcAZhTMdoyetH04sbOQJWacV/view?usp=sharing" width="852" height="480" allow="autoplay"></iframe>
+<iframe style="display:block; margin: 0 auto;" src="https://drive.google.com/file/d/1q3i_C4UCxcAZhTMdoyetH04sbOQJWacV/preview" width="852" height="480" allow="autoplay"></iframe>
 
 
 
