@@ -8,7 +8,7 @@ nav_order: 5
 Flappy Bird is a very simple infinite scrolling game released on Android and iOS in 2013.\
 You can still play it right here.
 [![Flappy Bird](images/lab04/flappy-bird.jpg)](https://flappybird.io/)\
-It's no longer on the main stores, but you can still download them here.\
+It's no longer on the main stores, but you can still download them here.
 
 {: .warn}
 I haven't tried these links, so use with caution.
