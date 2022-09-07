@@ -16,6 +16,8 @@ I haven't tried these links, so use with caution.
 [Flappy Bird APK for Android](https://flappy-bird.en.uptodown.com/android)\
 [Flappy Bird for iOS](https://flappy-bird.en.softonic.com/iphone)
 
+Our version of the lab should end up looking like this:
+<iframe style="display:block; margin: 0 auto;" src="https://drive.google.com/file/d/1sz-DwfDN-0_myhrnfwsWRgcB0hYdoBYK/preview" width="852" height="480" allow="autoplay"></iframe>
 
 
 
