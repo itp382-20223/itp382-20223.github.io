@@ -10,3 +10,5 @@ If we're being honest, Candy Crush seems eerily derivative of [Bejeweled](https:
 
 [![Candy Crush Saga](images/lab05/candycrush.jpg)](https://youtu.be/v5XZIWwTJ1I)
 
+Our version of the lab should end up looking like this:
+<iframe style="display:block; margin: 0 auto;" src="https://drive.google.com/file/d/1oPG1E23HXVXK2z_CfylRoJfU90_OJpWW/preview" width="852" height="480" allow="autoplay"></iframe>
